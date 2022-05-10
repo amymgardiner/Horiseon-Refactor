@@ -44,3 +44,11 @@ You are required to submit the following for review:
 
 - - -
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+
+## Screenshot of Application
+
+![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/99151426/167535310-aac8cd58-e4c2-49e0-bbde-d7821ea4328b.png)
+
+## Link to Application
+
+https://amymgardiner.github.io/module1/
