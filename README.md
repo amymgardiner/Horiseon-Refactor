@@ -20,4 +20,4 @@ As a best practice, I also went beyond the acceptance criteria from the company 
 
 ## Link to Application
 
-https://amymgardiner.github.io/module1/
+ttps://amymgardiner.github.io/Horiseon-Refactor/
