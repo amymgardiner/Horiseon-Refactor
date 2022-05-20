@@ -24,6 +24,7 @@ header {
     color: #ffffff;
 }
 
+/* brand image */
 header h1 {
     display: inline-block;
     font-size: 48px;
@@ -33,6 +34,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/* nav bar to link to main section of page */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -50,6 +52,7 @@ header nav ul li {
     margin-left: 25px;
 }
 
+/* main image banner */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,6 +62,7 @@ header nav ul li {
     background-position: center;
 }
 
+/* images in main section of page */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -69,6 +73,11 @@ header nav ul li {
     margin-left: 25px;
 }
 
+.content-main img {
+    max-height: 200px;
+}
+
+/* main section of page */
 .content {
     width: 75%;
     display: inline-block;
@@ -84,15 +93,12 @@ header nav ul li {
     color: #ffffff;
 }
 
-.content-main img {
-    max-height: 200px;
-}
-
 .content-main h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* aside section of page */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -127,6 +133,6 @@ footer {
     text-align: center;
 }
 
-footer h2 {
+footer h4 {
     font-size: 20px;
 }
