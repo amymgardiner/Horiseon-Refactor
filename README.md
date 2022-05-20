@@ -4,11 +4,11 @@ One of the most common tasks for front-end and junior developers is to take exis
 
 ## Updated Code
 
-I have changed the HTML source code to have semantic elements, that follow a logical structure independent of styling and positioning. These elements now include header, nav, section, article, aside, and footer.
+I have changed the HTML source code to have semantic elements that follow a logical structure independent of styling and positioning. These elements now include header, nav, section, article, aside, and footer.
 
-Photo and icon images are given accessible and descriptive alt attributes. In our module we learned icon images are decortive and don't need text for their alt attributes, but I went ahead and gave them the attribute of "icon."
+Photo and icon images are given accessible and descriptive alt attributes. In our module we learned icon images are decorative and don't need text for their alt attributes, but I went ahead and gave them the attribute of "icon."
 
-I fixed the heading attributes so they now fall in squential order.
+I fixed the heading attributes so they now fall in sequential order.
 
 I also changed the title element to be the company's name as a concise and descriptive title.
 
